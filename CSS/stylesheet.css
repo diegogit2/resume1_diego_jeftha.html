@@ -4,11 +4,12 @@ body {
 
 }
 
-.into_statement {
-    background-color: rgb(161, 196, 219);
+.intro_statement {
+    background-color:rgb(89, 189, 202);
     border-radius: 10px;
     border: 2px solid black;
-    font-weight:600;
+    font-weight:601;
+    padding: 10px;
     
 }
 
@@ -17,7 +18,7 @@ body {
 }
 
 img {
-    border-radius: 8px;
+    border-radius: 80px;
     border: 3px solid black;
     width: 150px; 
 }
@@ -34,25 +35,33 @@ h2 {
     background-color: rgb(161, 196, 219);
     border-radius: 10px;
     padding: 6px;
-    border: 2px solid black;
+    border: 2px solid black; text-decoration: underline;
 }
 
 a {
     color: rgb(17, 126, 26);
 }
 
-.square1 {
-    background-color: rgb(161, 196, 219);
-    border-color: black;
+.box1 {
+    background-color:rgb(89, 189, 202) ;
     border-radius: 10px;
-    padding: 6px;
+    padding-top: 20px;
+    padding-left: 20px;
     border: 2px solid black;
     
 }
 
-.square2 {
-    background-color: rgb(161, 196, 219);
+.box2 {
+    background-color: rgb(89, 189, 202);
     border-radius: 10px;
     border: 2px solid black;
+}
+
+.box3 {
+    background-color: rgb(89, 189, 202);
+    border: 2px solid black;
+    border-radius: 10px;
+    padding:6px;
+    margin: 10px;
 }
 
