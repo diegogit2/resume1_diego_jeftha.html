@@ -1,7 +1,6 @@
 body {
     background-color: rgb(195, 226, 216);
     font-family: Arial, Helvetica, sans-serif;
-
 }
 
 .intro_statement {
@@ -11,24 +10,25 @@ body {
     font-weight:601;
     padding: 5px;
     margin: 10px;
-    
 }
 
 .info {
-    font-weight:601;
+    font-weight: 600;
 }
 
 img {
     border-radius: 80px;
     border: 3px solid black;
     width: 150px; 
+    
 }
 
 h1 {
     font-family:sans-serif;
     font-size:35px;
     float:right;
-    padding-right:70%
+    padding-right:70%;
+    
 }
 
 h2 {
@@ -36,7 +36,8 @@ h2 {
     background-color: rgb(64, 151, 209);
     border-radius: 10px;
     padding: 6px;
-    border: 2px solid black; text-decoration: underline;
+    border: 2px solid black; 
+    text-decoration: underline;
 }
 
 a {
@@ -50,11 +51,42 @@ a {
     padding-left: 20px;
     border: 2px solid black;
     margin: 10px;
-    
+}
+
+.menu {
+    background-color:rgb(124, 207, 218);
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 6px;
 }
 
 .box2 {
-    background-color: rgb(124, 207, 218);
+    background-color:rgb(124, 207, 218);
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 6px;
+}
+
+.box3 {
+    background-color:rgb(124, 207, 218);
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 6px;
+}
+
+.box4 {
+    background-color:rgb(124, 207, 218);
+    border-radius: 10px;
+    border: 2px solid black;
+    margin: 10px;
+    padding: 6px;
+}
+
+.box5 {
+    background-color:rgb(124, 207, 218);
     border-radius: 10px;
     border: 2px solid black;
     margin: 10px;
